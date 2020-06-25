@@ -128,7 +128,7 @@ JET_DEFAULT_THEME = 'light-green'
 JET_THEMES = [
     {
         'theme': 'default', # theme folder name
-        'color': '#47bac1', # color of the theme's button in user menu
+        'color': ' #41434f ', # color of the theme's button in user menu
         'title': 'Default' # theme title
     },
     {
